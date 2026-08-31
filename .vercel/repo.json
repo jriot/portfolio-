@@ -1,0 +1,11 @@
+{
+  "remoteName": "origin",
+  "projects": [
+    {
+      "id": "prj_XJhTiphTAfa3yxa3LAD6nten4ARj",
+      "name": "react-portfolio",
+      "directory": ".",
+      "orgId": "team_JA97tEH6VVCxmbso4vVGPHgH"
+    }
+  ]
+}
